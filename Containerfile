@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/ubi9/python-312:9.7-1763483688 AS builder
+FROM registry.access.redhat.com/ubi9/python-312:9.7-1764275247 AS builder
 
 USER 0
 
